@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ <id>urn:iweb:EB9135EF-B517-4605-9DAE-2B409AEA6CFC</id>
+ <title>Page list Atom feed</title>
+ <updated>2014-07-06T19:01:42-05:00</updated>
+ <link rel="self" href="feed.xml"/>
+ <generator>iWeb</generator>
+ <author>
+  <name>iWeb</name>
+ </author>
+ <entry>
+  <id>urn:iweb:EB3835A4-32C7-41C0-BC16-3E2901FFBD6E</id>
+  <title>Home</title>
+  <title xmlns="urn:iweb:">Home</title>
+  <in-navbar xmlns="urn:iweb:">EB3835A4-32C7-41C0-BC16-3E2901FFBD6E</in-navbar>
+  <link rel="alternate" href="Home.html"/>
+  <updated>2014-07-06T19:01:42.001-05:00</updated>
+  <content>Home</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:E13F90EB-CE1D-4F88-A739-7A9C585FE4BB</id>
+  <title>About The Artist</title>
+  <title xmlns="urn:iweb:">About The Artist</title>
+  <in-navbar xmlns="urn:iweb:">E13F90EB-CE1D-4F88-A739-7A9C585FE4BB</in-navbar>
+  <link rel="alternate" href="About_The_Artist.html"/>
+  <updated>2014-07-06T19:01:42.002-05:00</updated>
+  <content>About The Artist</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:66AAFB2A-A6EC-43F7-96A9-07219D569A1E</id>
+  <title>Acrylic Paintings</title>
+  <title xmlns="urn:iweb:">Acrylic Paintings</title>
+  <in-navbar xmlns="urn:iweb:">66AAFB2A-A6EC-43F7-96A9-07219D569A1E</in-navbar>
+  <link rel="alternate" href="Acrylic_Paintings/Acrylic_Paintings.html"/>
+  <updated>2014-07-06T19:01:42.003-05:00</updated>
+  <content>Acrylic Paintings</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:8E842065-99D1-4B0D-921C-8E81F191B082</id>
+  <title>Mixed Media Collage</title>
+  <title xmlns="urn:iweb:">Mixed Media Collage</title>
+  <in-navbar xmlns="urn:iweb:">8E842065-99D1-4B0D-921C-8E81F191B082</in-navbar>
+  <link rel="alternate" href="Mixed_Media_Collage.html"/>
+  <updated>2014-07-06T19:01:42.004-05:00</updated>
+  <content>Mixed Media Collage</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:0FC23E19-7E20-4AD1-B576-EFEF5592B1E6</id>
+  <title> Shows and Exhibitions</title>
+  <title xmlns="urn:iweb:"> Shows and Exhibitions</title>
+  <in-navbar xmlns="urn:iweb:">0FC23E19-7E20-4AD1-B576-EFEF5592B1E6</in-navbar>
+  <link rel="alternate" href="Shows_and_Exhibitions.html"/>
+  <updated>2014-07-06T19:01:42.005-05:00</updated>
+  <content> Shows and Exhibitions</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:899DFF4A-11B3-4D03-BEAB-EF75D33936A5</id>
+  <title>Contact</title>
+  <title xmlns="urn:iweb:">Contact</title>
+  <in-navbar xmlns="urn:iweb:">899DFF4A-11B3-4D03-BEAB-EF75D33936A5</in-navbar>
+  <link rel="alternate" href="Contact.html"/>
+  <updated>2014-07-06T19:01:42.006-05:00</updated>
+  <content>Contact</content>
+ </entry>
+</feed>

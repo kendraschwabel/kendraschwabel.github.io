@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:iphoto="urn:iphoto:property" xmlns:iweb="http://www.apple.com/iweb" version="2.0">
+  <channel>
+    <title>Acrylic Paintings</title>
+    <link>http://www.schwabel.com/kendra/schwabel.com_kendra_/Acrylic_Paintings/Acrylic_Paintings.html</link>
+    <description>My collections include a series of Landscapes from Tuscany and Provence, European Street Scenes, Scenes near Stillwater,MN and a group of Still Lifes and Songbirds.</description>
+    <item>
+      <title>Tuscan Landscapes</title>
+      <link>http://www.schwabel.com/kendra/schwabel.com_kendra_/Acrylic_Paintings/Pages/Tuscan_Landscapes.html</link>
+      <guid isPermaLink="false">5d6f7e73-ae59-46dc-91c8-b582f8dfb4dd</guid>
+    </item>
+    <item>
+      <title>European Street Scenes</title>
+      <link>http://www.schwabel.com/kendra/schwabel.com_kendra_/Acrylic_Paintings/Pages/European_Street_Scenes.html</link>
+      <guid isPermaLink="false">ffa836b2-0787-437a-9e02-41ef48395e9e</guid>
+    </item>
+    <item>
+      <title>Still Lifes and Song Birds</title>
+      <link>http://www.schwabel.com/kendra/schwabel.com_kendra_/Acrylic_Paintings/Pages/Still_Lifes_and_Song_Birds.html</link>
+      <guid isPermaLink="false">aac7082d-77ed-42ff-b139-f7e4af16ab55</guid>
+    </item>
+    <item>
+      <title>Stillwater Scenes</title>
+      <link>http://www.schwabel.com/kendra/schwabel.com_kendra_/Acrylic_Paintings/Pages/Stillwater_Scenes.html</link>
+      <guid isPermaLink="false">d7d93677-1a99-4379-811c-9a4769e71d0a</guid>
+    </item>
+  </channel>
+</rss>

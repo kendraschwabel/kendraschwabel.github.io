@@ -1,12 +1,12 @@
-// Created by iWeb 3.0.3 local-build-20130807
+// Created by iWeb 3.0.4 local-build-20190720
 
 function createMediaStream_id3()
-{return IWCreateMediaCollection("http://www.schwabel.com/kendra/schwabel.com_kendra_/Acrylic_Paintings/Acrylic_Paintings_files/rss.xml",true,2,["No photos yet","%d photo","%d photos"],["","%d clip","%d clips"]);}
+{return IWCreateMediaCollection("https://www.kendraschwabel.com/schwabel.com_kendra_/Acrylic_Paintings/Acrylic_Paintings_files/rss.xml",true,2,["No photos yet","%d photo","%d photos"],["","%d clip","%d clips"]);}
 function initializeMediaStream_id3()
-{createMediaStream_id3().load('http://www.schwabel.com/kendra/schwabel.com_kendra_/Acrylic_Paintings',function(imageStream)
+{createMediaStream_id3().load('https://www.kendraschwabel.com/schwabel.com_kendra_/Acrylic_Paintings',function(imageStream)
 {var entryCount=imageStream.length;var headerView=widgets['widget7'];headerView.setPreferenceForKey(imageStream.length,'entryCount');NotificationCenter.postNotification(new IWNotification('SetPage','id3',{pageIndex:0}));});}
 function layoutMediaGrid_id3(range)
-{createMediaStream_id3().load('http://www.schwabel.com/kendra/schwabel.com_kendra_/Acrylic_Paintings',function(imageStream)
+{createMediaStream_id3().load('https://www.kendraschwabel.com/schwabel.com_kendra_/Acrylic_Paintings',function(imageStream)
 {if(range==null)
 {range=new IWRange(0,imageStream.length);}
 IWLayoutPhotoGrid('id3',new IWPhotoGridLayout(2,new IWSize(284,213),new IWSize(284,32),new IWSize(336,260),27,27,0,new IWSize(2,2)),new IWEmptyStroke(),imageStream,range,(null),null,1.000000,null,'../Media/slideshow.html','widget7',null,'widget8',{showTitle:true,showMetric:false})});}

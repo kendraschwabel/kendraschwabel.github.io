@@ -1,3 +1,69 @@
+.paragraph_style {
+    color: rgb(206, 206, 206);
+    font-family: 'Futura-Medium', 'Futura', 'Trebuchet MS', sans-serif;
+    font-size: 24px;
+    font-stretch: normal;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 500;
+    letter-spacing: 0;
+    line-height: 32px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top: 0px;
+    opacity: 1.00;
+    padding-bottom: 0px;
+    padding-top: 0px;
+    text-align: left;
+    text-decoration: none;
+    text-indent: 0px;
+    text-transform: uppercase;
+}
+.paragraph_style_1 {
+    color: rgb(204, 204, 204);
+    font-family: 'Futura-Medium', 'Futura', 'Trebuchet MS', sans-serif;
+    font-size: 14px;
+    font-stretch: normal;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 500;
+    letter-spacing: 0;
+    line-height: 21px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top: 0px;
+    opacity: 1.00;
+    padding-bottom: 0px;
+    padding-top: 0px;
+    text-align: justify;
+    text-decoration: none;
+    text-indent: 0px;
+    text-transform: none;
+}
+.style_SkipStroke_2 {
+    background: transparent;
+    opacity: 1.00;
+}
+.style_SkipStroke_3 {
+    background: transparent;
+    opacity: 1.00;
+}
+.style_SkipStroke {
+    background: transparent;
+    opacity: 1.00;
+}
+.style_SkipStroke_1 {
+    background: transparent;
+    opacity: 1.00;
+}
+.style_SkipStroke_4 {
+    background: transparent;
+    float: none;
+    margin: 0px;
+    opacity: 1.00;
+}
 .Body {
     color: rgb(255, 255, 255);
     font-family: 'Futura-Medium', 'Futura', 'Trebuchet MS', sans-serif;
@@ -64,83 +130,17 @@
     text-indent: 0px;
     text-transform: uppercase;
 }
+.Normal {
+    padding: 4px;
+}
+.Normal_External_640_52 {
+    position: relative;
+}
 .Normal_External_640_29 {
     position: relative;
 }
 .Normal_External_640_50 {
     position: relative;
-}
-.Normal {
-    padding: 4px;
-}
-.paragraph_style_1 {
-    color: rgb(204, 204, 204);
-    font-family: 'Futura-Medium', 'Futura', 'Trebuchet MS', sans-serif;
-    font-size: 14px;
-    font-stretch: normal;
-    font-style: normal;
-    font-variant: normal;
-    font-weight: 500;
-    letter-spacing: 0;
-    line-height: 21px;
-    margin-bottom: 0px;
-    margin-left: 0px;
-    margin-right: 0px;
-    margin-top: 0px;
-    opacity: 1.00;
-    padding-bottom: 0px;
-    padding-top: 0px;
-    text-align: justify;
-    text-decoration: none;
-    text-indent: 0px;
-    text-transform: none;
-}
-.paragraph_style {
-    color: rgb(206, 206, 206);
-    font-family: 'Futura-Medium', 'Futura', 'Trebuchet MS', sans-serif;
-    font-size: 24px;
-    font-stretch: normal;
-    font-style: normal;
-    font-variant: normal;
-    font-weight: 500;
-    letter-spacing: 0;
-    line-height: 32px;
-    margin-bottom: 0px;
-    margin-left: 0px;
-    margin-right: 0px;
-    margin-top: 0px;
-    opacity: 1.00;
-    padding-bottom: 0px;
-    padding-top: 0px;
-    text-align: left;
-    text-decoration: none;
-    text-indent: 0px;
-    text-transform: uppercase;
-}
-.Normal_External_640_52 {
-    position: relative;
-}
-.style_SkipStroke {
-    background: transparent;
-    opacity: 1.00;
-}
-.style_SkipStroke_1 {
-    background: transparent;
-    opacity: 1.00;
-}
-.style_SkipStroke_2 {
-    background: transparent;
-    opacity: 1.00;
-}
-.style_SkipStroke_3 {
-    background: transparent;
-    opacity: 1.00;
-}
-.style_SkipStroke_4 {
-    background: transparent;
-    float: none;
-    margin: 0px;
-    opacity: 1.00;
 }
 .Title {
     color: rgb(203, 203, 203);
@@ -180,13 +180,13 @@
     background: transparent;
     opacity: 1.00;
 }
-.graphic_textbox_layout_style_default_External_100_100 {
-    position: relative;
-}
 .graphic_textbox_layout_style_default {
     padding: 4px;
 }
 .graphic_textbox_layout_style_default_External_92_92 {
+    position: relative;
+}
+.graphic_textbox_layout_style_default_External_100_100 {
     position: relative;
 }
 .graphic_textbox_style_default_SkipStroke {
@@ -204,42 +204,107 @@ a:visited {
     text-decoration: none;
 }
 a:hover {
-    color: rgb(188, 38, 44);
-    text-decoration: none;
-}
-#widget4 a:visited {
-    color: rgb(121, 121, 124);
+    color: rgb(189, 37, 44);
     text-decoration: none;
 }
 #widget4 a {
     color: rgb(203, 203, 203);
     text-decoration: none;
 }
-.bumper {
-    font-size: 1px;
-    line-height: 1px;
-}
-#widget8 a {
+#widget5 a {
     color: rgb(203, 203, 203);
     text-decoration: none;
 }
-#widget0 a:hover {
-    color: rgb(188, 38, 44);
+#widget6 a {
+    color: rgb(203, 203, 203);
     text-decoration: none;
 }
-#widget7 a:hover {
-    color: rgb(188, 38, 44);
-    text-decoration: none;
-}
-#widget8 a:visited {
-    color: rgb(121, 121, 124);
+#widget0 a {
+    color: rgb(203, 203, 203);
     text-decoration: none;
 }
 #widget3 a {
     color: rgb(203, 203, 203);
     text-decoration: none;
 }
-.tinyText {
+#id3 div.caption span.metric {
+    color: rgb(255, 255, 255);
+    font-family: 'Futura-Medium', 'Futura', 'Trebuchet MS', sans-serif;
+    font-size: 10px;
+    font-stretch: normal;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 500;
+    letter-spacing: 0;
+    line-height: 13px;
+    opacity: 1.00;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+#widget6 a:hover {
+    color: rgb(189, 37, 44);
+    text-decoration: none;
+}
+#id3 div.caption {
+    line-height: 19px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top: 0px;
+    padding: 0px;
+    padding-bottom: 0px;
+    padding-top: 0px;
+    text-align: center;
+    text-indent: 0px;
+    white-space: nowrap;
+}
+#widget4 a:visited {
+    color: rgb(121, 121, 124);
+    text-decoration: none;
+}
+#widget6 a:visited {
+    color: rgb(121, 121, 124);
+    text-decoration: none;
+}
+#widget7 a {
+    color: rgb(203, 203, 203);
+    text-decoration: none;
+}
+#widget8 a {
+    color: rgb(203, 203, 203);
+    text-decoration: none;
+}
+#id3 div.caption span.title {
+    color: rgb(210, 210, 210);
+    font-family: 'Futura-Medium', 'Futura', 'Trebuchet MS', sans-serif;
+    font-size: 14px;
+    font-stretch: normal;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 500;
+    letter-spacing: 0;
+    line-height: 19px;
+    opacity: 1.00;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+.bumper {
+    font-size: 1px;
+    line-height: 1px;
+}
+#widget0 a:visited {
+    color: rgb(121, 121, 124);
+    text-decoration: none;
+}
+#widget8 a:visited {
+    color: rgb(121, 121, 124);
+    text-decoration: none;
+}
+#widget5 a:hover {
+    color: rgb(189, 37, 44);
+    text-decoration: none;
+}
+.spacer {
     font-size: 1px;
     line-height: 1px;
 }
@@ -260,70 +325,24 @@ a:hover {
     text-decoration: none;
     text-transform: uppercase;
 }
-#widget5 a:visited {
-    color: rgb(121, 121, 124);
-    text-decoration: none;
-}
 #widget8 a:hover {
-    color: rgb(188, 38, 44);
+    color: rgb(189, 37, 44);
     text-decoration: none;
 }
 #widget7 a:visited {
     color: rgb(121, 121, 124);
     text-decoration: none;
 }
-#widget6 a:visited {
-    color: rgb(121, 121, 124);
-    text-decoration: none;
-}
-#widget6 a:hover {
-    color: rgb(188, 38, 44);
-    text-decoration: none;
-}
-.spacer {
-    font-size: 1px;
-    line-height: 1px;
-}
 #widget4 a:hover {
-    color: rgb(188, 38, 44);
+    color: rgb(189, 37, 44);
     text-decoration: none;
 }
-#id3 div.caption span.metric {
-    color: rgb(255, 255, 255);
-    font-family: 'Futura-Medium', 'Futura', 'Trebuchet MS', sans-serif;
-    font-size: 10px;
-    font-stretch: normal;
-    font-style: normal;
-    font-variant: normal;
-    font-weight: 500;
-    letter-spacing: 0;
-    line-height: 13px;
-    opacity: 1.00;
-    text-decoration: none;
-    text-transform: uppercase;
-}
-#widget0 a:visited {
+#widget5 a:visited {
     color: rgb(121, 121, 124);
     text-decoration: none;
 }
-#widget6 a {
-    color: rgb(203, 203, 203);
-    text-decoration: none;
-}
-#widget7 a {
-    color: rgb(203, 203, 203);
-    text-decoration: none;
-}
-#widget5 a {
-    color: rgb(203, 203, 203);
-    text-decoration: none;
-}
-#widget0 a {
-    color: rgb(203, 203, 203);
-    text-decoration: none;
-}
-#widget5 a:hover {
-    color: rgb(188, 38, 44);
+#widget7 a:hover {
+    color: rgb(189, 37, 44);
     text-decoration: none;
 }
 #widget3 a:visited {
@@ -350,36 +369,17 @@ a:hover {
 #id3 canvas {
     z-index: -1;
 }
-#id3 div.caption span.title {
-    color: rgb(210, 210, 210);
-    font-family: 'Futura-Medium', 'Futura', 'Trebuchet MS', sans-serif;
-    font-size: 14px;
-    font-stretch: normal;
-    font-style: normal;
-    font-variant: normal;
-    font-weight: 500;
-    letter-spacing: 0;
-    line-height: 19px;
-    opacity: 1.00;
+#widget0 a:hover {
+    color: rgb(189, 37, 44);
     text-decoration: none;
-    text-transform: uppercase;
+}
+.tinyText {
+    font-size: 1px;
+    line-height: 1px;
 }
 #widget3 a:hover {
-    color: rgb(188, 38, 44);
+    color: rgb(189, 37, 44);
     text-decoration: none;
-}
-#id3 div.caption {
-    line-height: 19px;
-    margin-bottom: 0px;
-    margin-left: 0px;
-    margin-right: 0px;
-    margin-top: 0px;
-    padding: 0px;
-    padding-bottom: 0px;
-    padding-top: 0px;
-    text-align: center;
-    text-indent: 0px;
-    white-space: nowrap;
 }
 body { 
     -webkit-text-size-adjust: none;

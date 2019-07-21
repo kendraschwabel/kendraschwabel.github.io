@@ -1,3 +1,53 @@
+.paragraph_style {
+    color: rgb(214, 214, 214);
+    font-family: 'Futura-Medium', 'Futura', 'Trebuchet MS', sans-serif;
+    font-size: 24px;
+    font-stretch: normal;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 500;
+    letter-spacing: 0;
+    line-height: 32px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top: 0px;
+    opacity: 1.00;
+    padding-bottom: 0px;
+    padding-top: 0px;
+    text-align: left;
+    text-decoration: none;
+    text-indent: 0px;
+    text-transform: uppercase;
+}
+.style {
+    color: rgb(170, 122, 121);
+    line-height: 32px;
+    opacity: 1.00;
+}
+.style_1 {
+    color: rgb(171, 163, 151);
+    line-height: 32px;
+    opacity: 1.00;
+}
+.style_2 {
+    color: rgb(171, 163, 151);
+    font-family: 'DecoTypeNaskh', 'DecoType Naskh';
+    font-size: 14px;
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 25px;
+    opacity: 1.00;
+}
+.style_SkipStroke {
+    background: transparent;
+    opacity: 1.00;
+}
+.style_SkipStroke_1 {
+    background: transparent;
+    opacity: 1.00;
+}
 .Caption {
     color: rgb(210, 210, 210);
     font-family: 'Futura-MediumItalic', 'Futura', 'Trebuchet MS', sans-serif;
@@ -5,7 +55,7 @@
     font-stretch: normal;
     font-style: italic;
     font-variant: normal;
-    font-weight: 400;
+    font-weight: 600;
     letter-spacing: 0;
     line-height: 20px;
     margin-bottom: 0px;
@@ -52,56 +102,6 @@
     background: transparent;
     opacity: 1.00;
 }
-.style {
-    color: rgb(170, 123, 121);
-    line-height: 32px;
-    opacity: 1.00;
-}
-.style_1 {
-    color: rgb(171, 163, 151);
-    line-height: 32px;
-    opacity: 1.00;
-}
-.style_2 {
-    color: rgb(171, 163, 151);
-    font-family: 'DecoTypeNaskh', 'DecoType Naskh';
-    font-size: 14px;
-    font-stretch: normal;
-    font-style: normal;
-    font-weight: 400;
-    line-height: 25px;
-    opacity: 1.00;
-}
-.paragraph_style {
-    color: rgb(214, 214, 214);
-    font-family: 'Futura-Medium', 'Futura', 'Trebuchet MS', sans-serif;
-    font-size: 24px;
-    font-stretch: normal;
-    font-style: normal;
-    font-variant: normal;
-    font-weight: 500;
-    letter-spacing: 0;
-    line-height: 32px;
-    margin-bottom: 0px;
-    margin-left: 0px;
-    margin-right: 0px;
-    margin-top: 0px;
-    opacity: 1.00;
-    padding-bottom: 0px;
-    padding-top: 0px;
-    text-align: left;
-    text-decoration: none;
-    text-indent: 0px;
-    text-transform: uppercase;
-}
-.style_SkipStroke {
-    background: transparent;
-    opacity: 1.00;
-}
-.style_SkipStroke_1 {
-    background: transparent;
-    opacity: 1.00;
-}
 .graphic_image_style_default_SkipStroke {
     background: transparent;
     opacity: 1.00;
@@ -109,7 +109,7 @@
 .image_cluster_layout_style_default {
     padding: 0px;
 }
-.image_cluster_layout_style_default_External_571_76 {
+.image_cluster_layout_style_default_External_0_0 {
     position: relative;
 }
 a {
@@ -121,51 +121,39 @@ a:visited {
     text-decoration: none;
 }
 a:hover {
-    color: rgb(188, 38, 44);
+    color: rgb(189, 37, 44);
     text-decoration: none;
 }
-#widget1 a:visited {
-    color: rgb(121, 121, 124);
+#widget0 a {
+    color: rgb(203, 203, 203);
     text-decoration: none;
 }
-#widget2 {
-    display: none;
-}
-#widget2 .Comment_Posted_Date {
-    color: rgb(255, 255, 255);
-    font-family: 'Futura-Medium', 'Futura', 'Trebuchet MS', sans-serif;
-    font-size: 10px;
-    font-stretch: normal;
-    font-style: normal;
-    font-variant: normal;
-    font-weight: 500;
-    letter-spacing: 0;
-    line-height: 13px;
-    margin-bottom: 0px;
-    margin-top: 0px;
-    opacity: 1.00;
-    text-align: left;
-    text-decoration: none;
-    text-transform: uppercase;
-}
-#widget0 a:visited {
-    color: rgb(121, 121, 124);
+#widget1 a {
+    color: rgb(203, 203, 203);
     text-decoration: none;
 }
-.bumper {
-    font-size: 1px;
-    line-height: 1px;
+#widget2 a {
+    color: rgb(203, 203, 203);
+    text-decoration: none;
 }
 #id2 canvas {
     z-index: -1;
 }
-#widget0 a:hover {
-    color: rgb(188, 38, 44);
+#widget3 a {
+    color: rgb(203, 203, 203);
     text-decoration: none;
 }
-#widget3 a:hover {
-    color: rgb(188, 38, 44);
-    text-decoration: none;
+#id2 div.caption {
+    line-height: 20px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top: 0px;
+    padding: 0px;
+    padding-bottom: 0px;
+    padding-top: 0px;
+    text-align: center;
+    text-indent: 0px;
 }
 #widget1 .Comment_Posted_Date {
     color: rgb(255, 255, 255);
@@ -184,13 +172,13 @@ a:hover {
     text-decoration: none;
     text-transform: uppercase;
 }
-#widget3 a {
-    color: rgb(203, 203, 203);
+#widget2 a:hover {
+    color: rgb(189, 37, 44);
     text-decoration: none;
 }
-.tinyText {
-    font-size: 1px;
-    line-height: 1px;
+#widget2 a:visited {
+    color: rgb(121, 121, 124);
+    text-decoration: none;
 }
 #widget2 .Caption {
     color: rgb(210, 210, 210);
@@ -199,7 +187,7 @@ a:hover {
     font-stretch: normal;
     font-style: italic;
     font-variant: normal;
-    font-weight: 400;
+    font-weight: 600;
     letter-spacing: 0;
     line-height: 20px;
     margin-bottom: 0px;
@@ -209,40 +197,66 @@ a:hover {
     text-decoration: none;
     text-transform: none;
 }
-#widget0 a {
-    color: rgb(203, 203, 203);
-    text-decoration: none;
+.bumper {
+    font-size: 1px;
+    line-height: 1px;
 }
-#widget2 a {
-    color: rgb(203, 203, 203);
-    text-decoration: none;
-}
-#widget2 a:visited {
+#widget0 a:visited {
     color: rgb(121, 121, 124);
     text-decoration: none;
+}
+.spacer {
+    font-size: 1px;
+    line-height: 1px;
+}
+#widget2 .Comment_Posted_Date {
+    color: rgb(255, 255, 255);
+    font-family: 'Futura-Medium', 'Futura', 'Trebuchet MS', sans-serif;
+    font-size: 10px;
+    font-stretch: normal;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 500;
+    letter-spacing: 0;
+    line-height: 13px;
+    margin-bottom: 0px;
+    margin-top: 0px;
+    opacity: 1.00;
+    text-align: left;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+#widget1 a:hover {
+    color: rgb(189, 37, 44);
+    text-decoration: none;
+}
+#widget2 {
+    display: none;
+}
+#id2 div.caption span.title {
+    color: rgb(210, 210, 210);
+    font-family: 'Futura-MediumItalic', 'Futura', 'Trebuchet MS', sans-serif;
+    font-size: 12px;
+    font-stretch: normal;
+    font-style: italic;
+    font-variant: normal;
+    font-weight: 600;
+    letter-spacing: 0;
+    line-height: 20px;
+    opacity: 1.00;
+    text-decoration: none;
+    text-transform: none;
 }
 #widget3 a:visited {
     color: rgb(121, 121, 124);
     text-decoration: none;
 }
-#id2 div.caption {
-    line-height: 20px;
-    margin-bottom: 0px;
-    margin-left: 0px;
-    margin-right: 0px;
-    margin-top: 0px;
-    padding: 0px;
-    padding-bottom: 0px;
-    padding-top: 0px;
-    text-align: center;
-    text-indent: 0px;
-}
-#widget1 a:hover {
-    color: rgb(188, 38, 44);
+#widget1 a:visited {
+    color: rgb(121, 121, 124);
     text-decoration: none;
 }
-#widget2 a:hover {
-    color: rgb(188, 38, 44);
+#widget0 a:hover {
+    color: rgb(189, 37, 44);
     text-decoration: none;
 }
 #widget3 .Comment_Posted_Date {
@@ -262,26 +276,12 @@ a:hover {
     text-decoration: none;
     text-transform: uppercase;
 }
-.spacer {
+.tinyText {
     font-size: 1px;
     line-height: 1px;
 }
-#id2 div.caption span.title {
-    color: rgb(210, 210, 210);
-    font-family: 'Futura-MediumItalic', 'Futura', 'Trebuchet MS', sans-serif;
-    font-size: 12px;
-    font-stretch: normal;
-    font-style: italic;
-    font-variant: normal;
-    font-weight: 400;
-    letter-spacing: 0;
-    line-height: 20px;
-    opacity: 1.00;
-    text-decoration: none;
-    text-transform: none;
-}
-#widget1 a {
-    color: rgb(203, 203, 203);
+#widget3 a:hover {
+    color: rgb(189, 37, 44);
     text-decoration: none;
 }
 body { 
